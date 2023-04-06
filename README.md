@@ -14,7 +14,6 @@ Welcome! We're excited to have you contribute to the [REPOSITORY_NAME] project. 
 1. Go to the [REPOSITORY_NAME](https://github.com/USERNAME/REPOSITORY_NAME) repository on GitHub.
 2. Click the **Fork** button in the top-right corner of the page.
 
-![Fork Button](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
 This creates a copy of the repository under your GitHub account.
 
@@ -25,7 +24,7 @@ Now, you need to clone the forked repository to your local machine. To do this:
 1. Go to your forked repository on GitHub.
 2. Click the **Code** button and copy the URL.
 
-![Copy URL](https://docs.github.com/assets/images/help/repository/https-url-clone.png)
+
 
 3. Open a terminal or command prompt on your local machine.
 4. Run the following command to clone the repository, replacing `YOUR_USERNAME` and `REPOSITORY_NAME` with the appropriate values:
